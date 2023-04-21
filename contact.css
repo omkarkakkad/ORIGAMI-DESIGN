@@ -1,0 +1,13 @@
+body {
+    background-image: url(images/contact.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p {
+    font-size: 35px;
+}
+
+h1 {
+    font-size: 45px;
+}
